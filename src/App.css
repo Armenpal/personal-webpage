@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 .App-logo {
   height: 40vmin;
 }
@@ -20,3 +24,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
