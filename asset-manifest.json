@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/personal-webpage/static/css/main.a1b2529b.chunk.css",
+    "main.js": "/personal-webpage/static/js/main.1227dcd0.chunk.js",
+    "main.js.map": "/personal-webpage/static/js/main.1227dcd0.chunk.js.map",
+    "runtime-main.js": "/personal-webpage/static/js/runtime-main.dbf838ba.js",
+    "runtime-main.js.map": "/personal-webpage/static/js/runtime-main.dbf838ba.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/personal-webpage/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.d44e458b.chunk.js": "/personal-webpage/static/js/2.d44e458b.chunk.js",
+    "static/js/2.d44e458b.chunk.js.map": "/personal-webpage/static/js/2.d44e458b.chunk.js.map",
+    "index.html": "/personal-webpage/index.html",
+    "precache-manifest.4f3dc8bb0f7e01138fcdaf137da40daa.js": "/personal-webpage/precache-manifest.4f3dc8bb0f7e01138fcdaf137da40daa.js",
+    "service-worker.js": "/personal-webpage/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/personal-webpage/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.a1b2529b.chunk.css.map": "/personal-webpage/static/css/main.a1b2529b.chunk.css.map",
+    "static/media/background.png": "/personal-webpage/static/media/background.85f834f4.png",
+    "static/media/iris_1.png": "/personal-webpage/static/media/iris_1.0a27d824.png",
+    "static/media/iris_2.png": "/personal-webpage/static/media/iris_2.51e1120a.png",
+    "static/media/iris_3.png": "/personal-webpage/static/media/iris_3.79ea5d76.png",
+    "static/media/profilepic.png": "/personal-webpage/static/media/profilepic.c22676ba.png",
+    "static/media/st.mikes.JPG": "/personal-webpage/static/media/st.mikes.5b6daa27.JPG",
+    "static/media/st.mikes_1.JPG": "/personal-webpage/static/media/st.mikes_1.ff2a3c78.JPG",
+    "static/media/st.mikes_2.JPG": "/personal-webpage/static/media/st.mikes_2.9a17971b.JPG",
+    "static/media/st.mikes_3.JPG": "/personal-webpage/static/media/st.mikes_3.f6ef0e78.JPG",
+    "static/media/st.mikes_4.JPG": "/personal-webpage/static/media/st.mikes_4.d94a1d31.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf838ba.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.d44e458b.chunk.js",
+    "static/css/main.a1b2529b.chunk.css",
+    "static/js/main.1227dcd0.chunk.js"
+  ]
+}
