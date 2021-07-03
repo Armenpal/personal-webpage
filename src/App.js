@@ -7,15 +7,17 @@ import Interests from './components/Interests';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import {BrowserRouter as Router} from 'react-router-dom';
 
 function App() {
   return (
-    
+    <Router>
   
     <div class="main-container">
      
  	<Nav/>
  	<About/>
+ 	
  	<Interests/>
  	<Portfolio/>
  	<br/>
@@ -25,7 +27,7 @@ function App() {
     </div>
  	
 
-	 	
+	</Router> 	
 
   
 
