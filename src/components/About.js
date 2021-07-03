@@ -20,15 +20,14 @@ export default function About() {
   						<p class="text-light font-weight-light" >
   						
   						My name is Armen Palvetzian and I am a software developer, a homecook and much more. Currently
-              I'm aspiring to work in the healthcare field using my expertise in any role that suits my talents. Feel free
+              I'm aspiring to work in the technology field using my expertise in an analystics and development role. Feel free
               to check out my resume if you would like to know more about my previous work experience or send me an email down below 
               so we can connect.
   						<br/><br/>
-  						<b>Fun fact:</b> Ask me anything about cooking and I'll teach you my secrets to become a pro home cook.
+  						<b>Fun fact:</b> Ask me anything about cooking and I'll teach you my secrets to become a great home cook.
   						</p>
 
-  						<a href="https://docs.google.com/document/d/e/2PACX-1vQltEfkNoLmZ_CeI7b_JNPhqV5AOqOoAvPp80hGSItP_ttSGTHNd_MzbMvaqZFaQZgRpruauXSj_8nu/pub" class="btn btn-secondary btn-lg" role="button" download=
-              "newfilename" >Resume</a>
+  						
 
   					</div>
 

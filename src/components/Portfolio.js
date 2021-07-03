@@ -114,9 +114,11 @@ export default function Portfolio(){
 
         </div>
         <br/>
+        
 
         <a href="https://github.com/Armenpal" class="btn btn-outline-secondary" role="button">Check out my Github!</a>
-
+        <br/>
+        <br/>
         </div>
        
 		  </section>

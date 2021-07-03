@@ -1,9 +1,13 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+ 
 
+ 
+
+ 
 export default function Footer(){
-
+ 
 	return(
 
 
@@ -14,7 +18,9 @@ export default function Footer(){
 
 		 </div>
 
-
+		 <div>
+      
+    </div>
 		</footer>
 
 
