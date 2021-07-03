@@ -4,15 +4,19 @@
   "private": true,
   "homepage": "https://armenpal.github.io/personal-webpage/",
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "react": "^16.11.0",
-    "react-bootstrap": "^1.0.0-beta.14",
-    "react-dom": "^16.11.0",
-    "react-headroom": "^3.0.0",
-    "react-scripts": "3.2.0"
+    "@react-pdf/renderer": "^1.6.16",
+    "bootstrap": "^4.6.0",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^16.14.0",
+    "react-headroom": "^3.1.1",
+    "react-pdf": "^5.3.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.4",
+    "read-pdf": "^0.1.2"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -35,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
