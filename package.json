@@ -12,7 +12,7 @@
     "react-headroom": "^3.1.1",
     "react-pdf": "^5.3.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^5.0.1",
     "read-pdf": "^0.1.2"
   },
   "scripts": {
